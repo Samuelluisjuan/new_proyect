@@ -7,3 +7,5 @@ Esta aplicación web ha sido desarrollada como parte de un proyecto de análisis
 
 Contexto
 Esta aplicación fue desarrollada como parte de un proyecto de análisis de datos para explorar y visualizar información sobre anuncios de venta de coches en los Estados Unidos. El objetivo principal del proyecto es proporcionar una herramienta interactiva y fácil de usar para analizar y comprender mejor los datos relacionados con la industria automotriz.
+
+El link para que puedan ver la pagina wep es https://sljg.onrender.com/
