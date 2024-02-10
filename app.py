@@ -27,9 +27,9 @@ if show_scatter:
     st.header('Gráfico de dispersión entre año de fabricación y precio')
     
     # Crear el scatterplot
-    fig_scatter = px.scatter(car_data, x="year", y="price", 
+    fig_scatter = px.scatter(car_data, x="model_year", y="price", 
                              title="Precio vs. Año de Fabricación",
-                             labels={"year": "Año de Fabricación", "price": "Precio"})
+                             labels={"mode_year": "Año de Fabricación", "price": "Precio"})
     
     # Mostrar el scatterplot
     st.plotly_chart(fig_scatter, use_container_width=True)
